@@ -1,4 +1,0 @@
-UPMathNet
-=========
-
-for CS192
