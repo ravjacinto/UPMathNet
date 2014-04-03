@@ -1,0 +1,28 @@
+.math-login
+{
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+	background-color: rgb(247,247,249);
+}
+
+.math-info
+{
+	width: 50%;
+	height: 100%;
+	background-color: rgb(247,247,249);
+}
+
+.main-body
+{
+	display: block;
+	float:left;
+	width: 100%;
+}
+.menu-class
+{
+	width:50%;
+	margin-left:25%;
+	
+}
